@@ -1,7 +1,7 @@
 # 哔哩哔哩会员购(bilibili)
 ### 💿使用方法
 1. 按照`requirements.txt`安装库
-   > pip install -r requirement.txt
+   > pip install -r requirements.txt
 3. 安装浏览器及其驱动
     > Chrome浏览器：https://www.google.cn/chrome/index.html
 
